@@ -16,12 +16,12 @@ Projeto desenvolvido durante a semana Omnistack 11.0.
   * `$ yarn dev ` vai iniciar o servidor back-end na localhost:3333\
 
 ### Frontend | Web
- Abra a pasta onde salvou o projeto no Shell no Shell (No windows Power Shell em modo administrador). 
+ Abra a pasta onde salvou o projeto no Shell (No windows Power Shell em modo administrador). 
   * `$ yarn ` esse comando vai instalar todos os módulos necessários ao React 
   * `$ yarn ` start vai iniciar o servidor Frontend na localhost:3000\
 
 ### Mobile
- Abra a pasta onde salvou o projeto no Shell na Shell (No windows Power Shell em modo administrador). 
+ Abra a pasta onde salvou o projeto no Shell (No windows Power Shell em modo administrador). 
   * `$ yarn ` esse comando vai instalar todos os módulos necessários ao React Native
   * `$ yarn ` start vai iniciar o servidor de desenvolvimento do Expo
 
